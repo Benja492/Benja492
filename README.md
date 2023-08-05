@@ -7,8 +7,8 @@
 
 ## 🌐 Socials:
 LinkedIn->https://www.linkedin.com/in/benjamin-reis-pinheiro-000964224/<br>
-Instagram->https://www.instagram.com/benjaminreispinheiro/
-benjaminreispinheiro@gmail.com
+Instagram->https://www.instagram.com/benjaminreispinheiro/<br>
+Email->benjaminreispinheiro@gmail.com
 
 
 ## 💻 Techs:
