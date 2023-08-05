@@ -6,7 +6,7 @@
 🌱 I’m currently learning to be a fullstack programmer.<br>💻 Main languages: Python, Ruby, JavaScript and TypeScript.
 
 ## 🌐 Socials:
-https://www.linkedin.com/in/benjamin-reis-pinheiro-000964224/
+LinkedIn->https://www.linkedin.com/in/benjamin-reis-pinheiro-000964224/<br>
 https://www.instagram.com/benjaminreispinheiro/
 benjaminreispinheiro@gmail.com
 
